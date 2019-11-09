@@ -1,0 +1,63 @@
+11:31:23:692 2019.11.09 AutoPico 12.3.0.0
+Time Start: 2019/11/9 11:31:23
+
+11:31:23:693 Checking Internet Connection...
+11:31:23:720 Windows Detected: Windows 7 Ultimate : Ultimate : 6.1 : 7601.24520
+11:31:23:724 Opening Firewall Port...
+11:31:23:788 Opening Firewall App...
+11:31:23:795 Internet Connection Detected
+11:31:23:797 Synchronizing Time...
+11:31:23:925 KMSEmulator Port: 1688
+11:31:23:939 Testing Emulator...
+11:31:23:946 Office 2010 Skipped
+11:31:23:948 Checking Port...
+11:31:23:948 Loading OEM-DM...
+11:31:23:948 Office 2013 Found: F:\Program Files\Microsoft Office\Office15\
+11:31:23:950 KMSEmulator running port: 1688
+11:31:23:951 Port is Open
+11:31:23:998 Connection accepted from [::ffff:127.0.0.1]:4820
+11:31:23:998 Connection accepted from [::ffff:127.0.0.1]:4819
+11:31:24:016 Test: Sending request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: TudOJyatpv
+11:31:24:033 Received request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: TudOJyatpv
+11:31:24:040 Sending response: v6, PID: 06401-00168-381-335559-03-2052-9600.0000-2592015, HwID: 005FF5A9123C2AFC
+11:31:24:043 Connection closed
+11:31:24:047 None valid OEM-DM Key Found
+11:31:24:049 Test: Received response: v6, PID: 06401-00168-381-335559-03-2052-9600.0000-2592015, HwID: 005FF5A9123C2AFC
+11:31:24:109 Found Windows Products: 1
+11:31:24:109 Name: Windows(R) 7, Ultimate edition
+Description: Windows Operating System - Windows(R) 7, OEM_SLP channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: HYRR2
+
+11:31:24:110 Version Windows Skipped
+11:31:24:117 Checking Port...
+11:31:24:287 Found Office 2013 Products: 1
+11:31:24:287 Name: Office 15, OfficeVisioProVL_KMS_Client edition
+Description: Office 15, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259200
+LicenseStatus: 1
+PartialProductKey: RM3B3
+
+11:31:24:302 DisableKeyManagementServiceHostCaching 0
+11:31:24:304 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+11:31:24:304 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+11:31:24:305 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+11:31:24:305 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+11:31:24:305 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+11:31:24:306 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+11:31:24:308 Activating Office 2013
+11:31:24:427 Office 15, OfficeVisioProVL_KMS_Client edition was already Activated
+11:31:24:431 Set Registry : OfficeSoftwareProtectionPlatform:KeyManagementServiceName
+11:31:24:431 Set Registry : OfficeSoftwareProtectionPlatform:KeyManagementServicePort
+11:31:24:433 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+11:31:24:434 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+11:31:24:435 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+11:31:24:436 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+11:31:24:438 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+11:31:24:439 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+11:31:24:454 ClearKeyManagementServiceMachine 0
+11:31:24:463 ClearKeyManagementServicePort 0
+11:31:24:465 Closing Firewall Port...
+11:31:24:540 Closing Firewall App...
+11:31:24:560 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
